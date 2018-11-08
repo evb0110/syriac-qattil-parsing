@@ -1,0 +1,10 @@
+Folder: Syriac/PARSING/qattil/parser 8 Set/
+
+A polished version of parsing 6 (FIRST FULL VERSION WITH ALL SUFFIXES AND TAGS)
+
+Добавил защиту от не-букв рядом с сирийскими словами, 
+типа 'dḥylʔ.'
+
+В этой версии ввод сир. текста из файла закомментирован, вместо него даётся список слов для проверки в массиве @syr_words.
+
+

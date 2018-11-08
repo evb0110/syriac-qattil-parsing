@@ -1,0 +1,2142 @@
+-word:       ḥsyn      
+ before:               
+ inflected:  ḥsyn      
+ base:       ḥsyn      
+ root:       ḥsn       
+ tag:        ms_abs    
+
+-word:       ḥbybʔ     
+ before:               
+ inflected:  ḥbybʔ     
+ base:       ḥbyb      
+ root:       ḥbb       
+ tag:        fs_abs    
+
+-word:       ḥbybʔ     
+ before:               
+ inflected:  ḥbybʔ     
+ base:       ḥbyb      
+ root:       ḥbb       
+ tag:        ms_emph   
+
+-word:       ḥbybʔ     
+ before:               
+ inflected:  ḥbybʔ     
+ base:       ḥbyb      
+ root:       ḥbb       
+ tag:        mpl_emph  
+
+-word:       lmkykʔ    
+ before:     l         
+ inflected:  mkykʔ     
+ base:       mkyk      
+ root:       mkk       
+ tag:        fs_abs    
+
+-word:       lmkykʔ    
+ before:     l         
+ inflected:  mkykʔ     
+ base:       mkyk      
+ root:       mkk       
+ tag:        ms_emph   
+
+-word:       lmkykʔ    
+ before:     l         
+ inflected:  mkykʔ     
+ base:       mkyk      
+ root:       mkk       
+ tag:        mpl_emph  
+
+-word:       ʔmyn      
+ before:               
+ inflected:  ʔmyn      
+ base:       ʔmyn      
+ root:       ʔmn       
+ tag:        ms_abs    
+
+-word:       ytyr      
+ before:               
+ inflected:  ytyr      
+ base:       ytyr      
+ root:       ytr       
+ tag:        ms_abs    
+
+-word:       wʔmyn     
+ before:     w         
+ inflected:  ʔmyn      
+ base:       ʔmyn      
+ root:       ʔmn       
+ tag:        ms_abs    
+
+-word:       ytyr      
+ before:               
+ inflected:  ytyr      
+ base:       ytyr      
+ root:       ytr       
+ tag:        ms_abs    
+
+-word:       dšpyr     
+ before:     d         
+ inflected:  špyr      
+ base:       špyr      
+ root:       špr       
+ tag:        ms_abs    
+
+-word:       ytyr      
+ before:               
+ inflected:  ytyr      
+ base:       ytyr      
+ root:       ytr       
+ tag:        ms_abs    
+
+-word:       wʔmyn     
+ before:     w         
+ inflected:  ʔmyn      
+ base:       ʔmyn      
+ root:       ʔmn       
+ tag:        ms_abs    
+
+-word:       wʔmyn     
+ before:     w         
+ inflected:  ʔmyn      
+ base:       ʔmyn      
+ root:       ʔmn       
+ tag:        ms_abs    
+
+-word:       wʔmyn     
+ before:     w         
+ inflected:  ʔmyn      
+ base:       ʔmyn      
+ root:       ʔmn       
+ tag:        ms_abs    
+
+-word:       nhyr      
+ before:               
+ inflected:  nhyr      
+ base:       nhyr      
+ root:       nhr       
+ tag:        ms_abs    
+
+-word:       ytyrʔ     
+ before:               
+ inflected:  ytyrʔ     
+ base:       ytyr      
+ root:       ytr       
+ tag:        fs_abs    
+
+-word:       ytyrʔ     
+ before:               
+ inflected:  ytyrʔ     
+ base:       ytyr      
+ root:       ytr       
+ tag:        ms_emph   
+
+-word:       ytyrʔ     
+ before:               
+ inflected:  ytyrʔ     
+ base:       ytyr      
+ root:       ytr       
+ tag:        mpl_emph  
+
+-word:       ytyr      
+ before:               
+ inflected:  ytyr      
+ base:       ytyr      
+ root:       ytr       
+ tag:        ms_abs    
+
+-word:       qṭyn      
+ before:               
+ inflected:  qṭyn      
+ base:       qṭyn      
+ root:       qṭn       
+ tag:        ms_abs    
+
+-word:       lqṭyn     
+ before:     l         
+ inflected:  qṭyn      
+ base:       qṭyn      
+ root:       qṭn       
+ tag:        ms_abs    
+
+-word:       špyrʔ     
+ before:               
+ inflected:  špyrʔ     
+ base:       špyr      
+ root:       špr       
+ tag:        fs_abs    
+
+-word:       špyrʔ     
+ before:               
+ inflected:  špyrʔ     
+ base:       špyr      
+ root:       špr       
+ tag:        ms_emph   
+
+-word:       špyrʔ     
+ before:               
+ inflected:  špyrʔ     
+ base:       špyr      
+ root:       špr       
+ tag:        mpl_emph  
+
+-word:       ḥkymʔ     
+ before:               
+ inflected:  ḥkymʔ     
+ base:       ḥkym      
+ root:       ḥkm       
+ tag:        fs_abs    
+
+-word:       ḥkymʔ     
+ before:               
+ inflected:  ḥkymʔ     
+ base:       ḥkym      
+ root:       ḥkm       
+ tag:        ms_emph   
+
+-word:       ḥkymʔ     
+ before:               
+ inflected:  ḥkymʔ     
+ base:       ḥkym      
+ root:       ḥkm       
+ tag:        mpl_emph  
+
+-word:       thyryn    
+ before:               
+ inflected:  thyryn    
+ base:       thyr      
+ root:       thr       
+ tag:        mpl_abs   
+
+-word:       ʔmyn      
+ before:               
+ inflected:  ʔmyn      
+ base:       ʔmyn      
+ root:       ʔmn       
+ tag:        ms_abs    
+
+-word:       dmyk      
+ before:               
+ inflected:  dmyk      
+ base:       dmyk      
+ root:       dmk       
+ tag:        ms_abs    
+
+-word:       lzdyqʔ    
+ before:     l         
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        fs_abs    
+
+-word:       lzdyqʔ    
+ before:     l         
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        ms_emph   
+
+-word:       lzdyqʔ    
+ before:     l         
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        mpl_emph  
+
+-word:       ytyrʔ     
+ before:               
+ inflected:  ytyrʔ     
+ base:       ytyr      
+ root:       ytr       
+ tag:        fs_abs    
+
+-word:       ytyrʔ     
+ before:               
+ inflected:  ytyrʔ     
+ base:       ytyr      
+ root:       ytr       
+ tag:        ms_emph   
+
+-word:       ytyrʔ     
+ before:               
+ inflected:  ytyrʔ     
+ base:       ytyr      
+ root:       ytr       
+ tag:        mpl_emph  
+
+-word:       wʔmyn     
+ before:     w         
+ inflected:  ʔmyn      
+ base:       ʔmyn      
+ root:       ʔmn       
+ tag:        ms_abs    
+
+-word:       ḥkymʔ     
+ before:               
+ inflected:  ḥkymʔ     
+ base:       ḥkym      
+ root:       ḥkm       
+ tag:        fs_abs    
+
+-word:       ḥkymʔ     
+ before:               
+ inflected:  ḥkymʔ     
+ base:       ḥkym      
+ root:       ḥkm       
+ tag:        ms_emph   
+
+-word:       ḥkymʔ     
+ before:               
+ inflected:  ḥkymʔ     
+ base:       ḥkym      
+ root:       ḥkm       
+ tag:        mpl_emph  
+
+-word:       wtmymʔ    
+ before:     w         
+ inflected:  tmymʔ     
+ base:       tmym      
+ root:       tmm       
+ tag:        fs_abs    
+
+-word:       wtmymʔ    
+ before:     w         
+ inflected:  tmymʔ     
+ base:       tmym      
+ root:       tmm       
+ tag:        ms_emph   
+
+-word:       wtmymʔ    
+ before:     w         
+ inflected:  tmymʔ     
+ base:       tmym      
+ root:       tmm       
+ tag:        mpl_emph  
+
+-word:       ʔmyn      
+ before:               
+ inflected:  ʔmyn      
+ base:       ʔmyn      
+ root:       ʔmn       
+ tag:        ms_abs    
+
+-word:       dytyr     
+ before:     d         
+ inflected:  ytyr      
+ base:       ytyr      
+ root:       ytr       
+ tag:        ms_abs    
+
+-word:       bnhyrʔ    
+ before:     b         
+ inflected:  nhyrʔ     
+ base:       nhyr      
+ root:       nhr       
+ tag:        fs_abs    
+
+-word:       bnhyrʔ    
+ before:     b         
+ inflected:  nhyrʔ     
+ base:       nhyr      
+ root:       nhr       
+ tag:        ms_emph   
+
+-word:       bnhyrʔ    
+ before:     b         
+ inflected:  nhyrʔ     
+ base:       nhyr      
+ root:       nhr       
+ tag:        mpl_emph  
+
+-word:       ytyr      
+ before:               
+ inflected:  ytyr      
+ base:       ytyr      
+ root:       ytr       
+ tag:        ms_abs    
+
+-word:       ytyr      
+ before:               
+ inflected:  ytyr      
+ base:       ytyr      
+ root:       ytr       
+ tag:        ms_abs    
+
+-word:       zdyqʔ     
+ before:               
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        fs_abs    
+
+-word:       zdyqʔ     
+ before:               
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        ms_emph   
+
+-word:       zdyqʔ     
+ before:               
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        mpl_emph  
+
+-word:       zdyqʔ     
+ before:               
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        fs_abs    
+
+-word:       zdyqʔ     
+ before:               
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        ms_emph   
+
+-word:       zdyqʔ     
+ before:               
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        mpl_emph  
+
+-word:       dzdyqʔ    
+ before:     d         
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        fs_abs    
+
+-word:       dzdyqʔ    
+ before:     d         
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        ms_emph   
+
+-word:       dzdyqʔ    
+ before:     d         
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        mpl_emph  
+
+-word:       dqryrʔ    
+ before:     d         
+ inflected:  qryrʔ     
+ base:       qryr      
+ root:       qrr       
+ tag:        fs_abs    
+
+-word:       dqryrʔ    
+ before:     d         
+ inflected:  qryrʔ     
+ base:       qryr      
+ root:       qrr       
+ tag:        ms_emph   
+
+-word:       dqryrʔ    
+ before:     d         
+ inflected:  qryrʔ     
+ base:       qryr      
+ root:       qrr       
+ tag:        mpl_emph  
+
+-word:       ʔmyn      
+ before:               
+ inflected:  ʔmyn      
+ base:       ʔmyn      
+ root:       ʔmn       
+ tag:        ms_abs    
+
+-word:       rkykʔ     
+ before:               
+ inflected:  rkykʔ     
+ base:       rkyk      
+ root:       rkk       
+ tag:        fs_abs    
+
+-word:       rkykʔ     
+ before:               
+ inflected:  rkykʔ     
+ base:       rkyk      
+ root:       rkk       
+ tag:        ms_emph   
+
+-word:       rkykʔ     
+ before:               
+ inflected:  rkykʔ     
+ base:       rkyk      
+ root:       rkk       
+ tag:        mpl_emph  
+
+-word:       drkykʔ    
+ before:     d         
+ inflected:  rkykʔ     
+ base:       rkyk      
+ root:       rkk       
+ tag:        fs_abs    
+
+-word:       drkykʔ    
+ before:     d         
+ inflected:  rkykʔ     
+ base:       rkyk      
+ root:       rkk       
+ tag:        ms_emph   
+
+-word:       drkykʔ    
+ before:     d         
+ inflected:  rkykʔ     
+ base:       rkyk      
+ root:       rkk       
+ tag:        mpl_emph  
+
+-word:       wytyr     
+ before:     w         
+ inflected:  ytyr      
+ base:       ytyr      
+ root:       ytr       
+ tag:        ms_abs    
+
+-word:       ʔmyn      
+ before:               
+ inflected:  ʔmyn      
+ base:       ʔmyn      
+ root:       ʔmn       
+ tag:        ms_abs    
+
+-word:       ḥkymʔ     
+ before:               
+ inflected:  ḥkymʔ     
+ base:       ḥkym      
+ root:       ḥkm       
+ tag:        fs_abs    
+
+-word:       ḥkymʔ     
+ before:               
+ inflected:  ḥkymʔ     
+ base:       ḥkym      
+ root:       ḥkm       
+ tag:        ms_emph   
+
+-word:       ḥkymʔ     
+ before:               
+ inflected:  ḥkymʔ     
+ base:       ḥkym      
+ root:       ḥkm       
+ tag:        mpl_emph  
+
+-word:       dnyḥ      
+ before:               
+ inflected:  dnyḥ      
+ base:       dnyḥ      
+ root:       dnḥ       
+ tag:        ms_abs    
+
+-word:       wmkyk     
+ before:     w         
+ inflected:  mkyk      
+ base:       mkyk      
+ root:       mkk       
+ tag:        ms_abs    
+
+-word:       bsym      
+ before:               
+ inflected:  bsym      
+ base:       bsym      
+ root:       bsm       
+ tag:        ms_abs    
+
+-word:       qlylʔ     
+ before:               
+ inflected:  qlylʔ     
+ base:       qlyl      
+ root:       qll       
+ tag:        fs_abs    
+
+-word:       qlylʔ     
+ before:               
+ inflected:  qlylʔ     
+ base:       qlyl      
+ root:       qll       
+ tag:        ms_emph   
+
+-word:       qlylʔ     
+ before:               
+ inflected:  qlylʔ     
+ base:       qlyl      
+ root:       qll       
+ tag:        mpl_emph  
+
+-word:       šlyṭ      
+ before:               
+ inflected:  šlyṭ      
+ base:       šlyṭ      
+ root:       šlṭ       
+ tag:        ms_abs    
+
+-word:       šlyṭ      
+ before:               
+ inflected:  šlyṭ      
+ base:       šlyṭ      
+ root:       šlṭ       
+ tag:        ms_abs    
+
+-word:       dybyšʔ    
+ before:     d         
+ inflected:  ybyšʔ     
+ base:       ybyš      
+ root:       ybš       
+ tag:        fs_abs    
+
+-word:       dybyšʔ    
+ before:     d         
+ inflected:  ybyšʔ     
+ base:       ybyš      
+ root:       ybš       
+ tag:        ms_emph   
+
+-word:       dybyšʔ    
+ before:     d         
+ inflected:  ybyšʔ     
+ base:       ybyš      
+ root:       ybš       
+ tag:        mpl_emph  
+
+-word:       šlyṭ      
+ before:               
+ inflected:  šlyṭ      
+ base:       šlyṭ      
+ root:       šlṭ       
+ tag:        ms_abs    
+
+-word:       ytyr      
+ before:               
+ inflected:  ytyr      
+ base:       ytyr      
+ root:       ytr       
+ tag:        ms_abs    
+
+-word:       šlyṭ      
+ before:               
+ inflected:  šlyṭ      
+ base:       šlyṭ      
+ root:       šlṭ       
+ tag:        ms_abs    
+
+-word:       dšpyr     
+ before:     d         
+ inflected:  špyr      
+ base:       špyr      
+ root:       špr       
+ tag:        ms_abs    
+
+-word:       ḥsynʔ     
+ before:               
+ inflected:  ḥsynʔ     
+ base:       ḥsyn      
+ root:       ḥsn       
+ tag:        fs_abs    
+
+-word:       ḥsynʔ     
+ before:               
+ inflected:  ḥsynʔ     
+ base:       ḥsyn      
+ root:       ḥsn       
+ tag:        ms_emph   
+
+-word:       ḥsynʔ     
+ before:               
+ inflected:  ḥsynʔ     
+ base:       ḥsyn      
+ root:       ḥsn       
+ tag:        mpl_emph  
+
+-word:       lḥsynʔ    
+ before:     l         
+ inflected:  ḥsynʔ     
+ base:       ḥsyn      
+ root:       ḥsn       
+ tag:        fs_abs    
+
+-word:       lḥsynʔ    
+ before:     l         
+ inflected:  ḥsynʔ     
+ base:       ḥsyn      
+ root:       ḥsn       
+ tag:        ms_emph   
+
+-word:       lḥsynʔ    
+ before:     l         
+ inflected:  ḥsynʔ     
+ base:       ḥsyn      
+ root:       ḥsn       
+ tag:        mpl_emph  
+
+-word:       špyrʔ     
+ before:               
+ inflected:  špyrʔ     
+ base:       špyr      
+ root:       špr       
+ tag:        fs_abs    
+
+-word:       špyrʔ     
+ before:               
+ inflected:  špyrʔ     
+ base:       špyr      
+ root:       špr       
+ tag:        ms_emph   
+
+-word:       špyrʔ     
+ before:               
+ inflected:  špyrʔ     
+ base:       špyr      
+ root:       špr       
+ tag:        mpl_emph  
+
+-word:       špyrʔ     
+ before:               
+ inflected:  špyrʔ     
+ base:       špyr      
+ root:       špr       
+ tag:        fs_abs    
+
+-word:       špyrʔ     
+ before:               
+ inflected:  špyrʔ     
+ base:       špyr      
+ root:       špr       
+ tag:        ms_emph   
+
+-word:       špyrʔ     
+ before:               
+ inflected:  špyrʔ     
+ base:       špyr      
+ root:       špr       
+ tag:        mpl_emph  
+
+-word:       dytyr     
+ before:     d         
+ inflected:  ytyr      
+ base:       ytyr      
+ root:       ytr       
+ tag:        ms_abs    
+
+-word:       wḥmym     
+ before:     w         
+ inflected:  ḥmym      
+ base:       ḥmym      
+ root:       ḥmm       
+ tag:        ms_abs    
+
+-word:       whwyʔ     
+ before:     w         
+ inflected:  hwyʔ      
+ base:       hwyʔ      
+ root:       hwy       
+ tag:        ms_abs    
+
+-word:       ʔmyn      
+ before:               
+ inflected:  ʔmyn      
+ base:       ʔmyn      
+ root:       ʔmn       
+ tag:        ms_abs    
+
+-word:       wzdyqʔ    
+ before:     w         
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        fs_abs    
+
+-word:       wzdyqʔ    
+ before:     w         
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        ms_emph   
+
+-word:       wzdyqʔ    
+ before:     w         
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        mpl_emph  
+
+-word:       hwyʔ      
+ before:               
+ inflected:  hwyʔ      
+ base:       hwyʔ      
+ root:       hwy       
+ tag:        ms_abs    
+
+-word:       whwyʔ     
+ before:     w         
+ inflected:  hwyʔ      
+ base:       hwyʔ      
+ root:       hwy       
+ tag:        ms_abs    
+
+-word:       zdyqʔ     
+ before:               
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        fs_abs    
+
+-word:       zdyqʔ     
+ before:               
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        ms_emph   
+
+-word:       zdyqʔ     
+ before:               
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        mpl_emph  
+
+-word:       zdyqʔ     
+ before:               
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        fs_abs    
+
+-word:       zdyqʔ     
+ before:               
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        ms_emph   
+
+-word:       zdyqʔ     
+ before:               
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        mpl_emph  
+
+-word:       wʕtyqtʔ   
+ before:     w         
+ inflected:  ʕtyqtʔ    
+ base:       ʕtyq      
+ root:       ʕtq       
+ tag:        fs_emph   
+
+-word:       wʕtyqtʔ   
+ before:     w         
+ inflected:  ʕtyqtʔ    
+ base:       ʕtyq      
+ root:       ʕtq       
+ tag:        fpl_emph  
+
+-word:       šlyṭ      
+ before:               
+ inflected:  šlyṭ      
+ base:       šlyṭ      
+ root:       šlṭ       
+ tag:        ms_abs    
+
+-word:       hwyn      
+ before:               
+ inflected:  hwyn      
+ base:       hwyn      
+ root:       hwn       
+ tag:        ms_abs    
+
+-word:       rḥyqʔ     
+ before:               
+ inflected:  rḥyqʔ     
+ base:       rḥyq      
+ root:       rḥq       
+ tag:        fs_abs    
+
+-word:       rḥyqʔ     
+ before:               
+ inflected:  rḥyqʔ     
+ base:       rḥyq      
+ root:       rḥq       
+ tag:        ms_emph   
+
+-word:       rḥyqʔ     
+ before:               
+ inflected:  rḥyqʔ     
+ base:       rḥyq      
+ root:       rḥq       
+ tag:        mpl_emph  
+
+-word:       dqšyšʔ    
+ before:     d         
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        fs_abs    
+
+-word:       dqšyšʔ    
+ before:     d         
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        ms_emph   
+
+-word:       dqšyšʔ    
+ before:     d         
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        mpl_emph  
+
+-word:       špyr      
+ before:               
+ inflected:  špyr      
+ base:       špyr      
+ root:       špr       
+ tag:        ms_abs    
+
+-word:       rḥyq      
+ before:               
+ inflected:  rḥyq      
+ base:       rḥyq      
+ root:       rḥq       
+ tag:        ms_abs    
+
+-word:       špyr      
+ before:               
+ inflected:  špyr      
+ base:       špyr      
+ root:       špr       
+ tag:        ms_abs    
+
+-word:       wqlyl     
+ before:     w         
+ inflected:  qlyl      
+ base:       qlyl      
+ root:       qll       
+ tag:        ms_abs    
+
+-word:       hwyn      
+ before:               
+ inflected:  hwyn      
+ base:       hwyn      
+ root:       hwn       
+ tag:        ms_abs    
+
+-word:       qšyšʔ     
+ before:               
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        fs_abs    
+
+-word:       qšyšʔ     
+ before:               
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        ms_emph   
+
+-word:       qšyšʔ     
+ before:               
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        mpl_emph  
+
+-word:       qdyšʔ     
+ before:               
+ inflected:  qdyšʔ     
+ base:       qdyš      
+ root:       qdš       
+ tag:        fs_abs    
+
+-word:       qdyšʔ     
+ before:               
+ inflected:  qdyšʔ     
+ base:       qdyš      
+ root:       qdš       
+ tag:        ms_emph   
+
+-word:       qdyšʔ     
+ before:               
+ inflected:  qdyšʔ     
+ base:       qdyš      
+ root:       qdš       
+ tag:        mpl_emph  
+
+-word:       ʔmyn      
+ before:               
+ inflected:  ʔmyn      
+ base:       ʔmyn      
+ root:       ʔmn       
+ tag:        ms_abs    
+
+-word:       špyr      
+ before:               
+ inflected:  špyr      
+ base:       špyr      
+ root:       špr       
+ tag:        ms_abs    
+
+-word:       nhyrtʔ    
+ before:               
+ inflected:  nhyrtʔ    
+ base:       nhyr      
+ root:       nhr       
+ tag:        fs_emph   
+
+-word:       nhyrtʔ    
+ before:               
+ inflected:  nhyrtʔ    
+ base:       nhyr      
+ root:       nhr       
+ tag:        fpl_emph  
+
+-word:       ḥbybʔ     
+ before:               
+ inflected:  ḥbybʔ     
+ base:       ḥbyb      
+ root:       ḥbb       
+ tag:        fs_abs    
+
+-word:       ḥbybʔ     
+ before:               
+ inflected:  ḥbybʔ     
+ base:       ḥbyb      
+ root:       ḥbb       
+ tag:        ms_emph   
+
+-word:       ḥbybʔ     
+ before:               
+ inflected:  ḥbybʔ     
+ base:       ḥbyb      
+ root:       ḥbb       
+ tag:        mpl_emph  
+
+-word:       ʔmyn      
+ before:               
+ inflected:  ʔmyn      
+ base:       ʔmyn      
+ root:       ʔmn       
+ tag:        ms_abs    
+
+-word:       ʔmyn      
+ before:               
+ inflected:  ʔmyn      
+ base:       ʔmyn      
+ root:       ʔmn       
+ tag:        ms_abs    
+
+-word:       dʔbyd     
+ before:     d         
+ inflected:  ʔbyd      
+ base:       ʔbyd      
+ root:       ʔbd       
+ tag:        ms_abs    
+
+-word:       ʔmyn      
+ before:               
+ inflected:  ʔmyn      
+ base:       ʔmyn      
+ root:       ʔmn       
+ tag:        ms_abs    
+
+-word:       ytyr      
+ before:               
+ inflected:  ytyr      
+ base:       ytyr      
+ root:       ytr       
+ tag:        ms_abs    
+
+-word:       wʔmyn     
+ before:     w         
+ inflected:  ʔmyn      
+ base:       ʔmyn      
+ root:       ʔmn       
+ tag:        ms_abs    
+
+-word:       šlyṭ      
+ before:               
+ inflected:  šlyṭ      
+ base:       šlyṭ      
+ root:       šlṭ       
+ tag:        ms_abs    
+
+-word:       ḥsyr      
+ before:               
+ inflected:  ḥsyr      
+ base:       ḥsyr      
+ root:       ḥsr       
+ tag:        ms_abs    
+
+-word:       ʔmyn      
+ before:               
+ inflected:  ʔmyn      
+ base:       ʔmyn      
+ root:       ʔmn       
+ tag:        ms_abs    
+
+-word:       lʕtyrʔ    
+ before:     l         
+ inflected:  ʕtyrʔ     
+ base:       ʕtyr      
+ root:       ʕtr       
+ tag:        fs_abs    
+
+-word:       lʕtyrʔ    
+ before:     l         
+ inflected:  ʕtyrʔ     
+ base:       ʕtyr      
+ root:       ʕtr       
+ tag:        ms_emph   
+
+-word:       lʕtyrʔ    
+ before:     l         
+ inflected:  ʕtyrʔ     
+ base:       ʕtyr      
+ root:       ʕtr       
+ tag:        mpl_emph  
+
+-word:       ddlyl     
+ before:     d         
+ inflected:  dlyl      
+ base:       dlyl      
+ root:       dll       
+ tag:        ms_abs    
+
+-word:       ʕtyrʔ     
+ before:               
+ inflected:  ʕtyrʔ     
+ base:       ʕtyr      
+ root:       ʕtr       
+ tag:        fs_abs    
+
+-word:       ʕtyrʔ     
+ before:               
+ inflected:  ʕtyrʔ     
+ base:       ʕtyr      
+ root:       ʕtr       
+ tag:        ms_emph   
+
+-word:       ʕtyrʔ     
+ before:               
+ inflected:  ʕtyrʔ     
+ base:       ʕtyr      
+ root:       ʕtr       
+ tag:        mpl_emph  
+
+-word:       thyryn    
+ before:               
+ inflected:  thyryn    
+ base:       thyr      
+ root:       thr       
+ tag:        mpl_abs   
+
+-word:       ʔmyn      
+ before:               
+ inflected:  ʔmyn      
+ base:       ʔmyn      
+ root:       ʔmn       
+ tag:        ms_abs    
+
+-word:       wbṭylyn   
+ before:     w         
+ inflected:  bṭylyn    
+ base:       bṭyl      
+ root:       bṭl       
+ tag:        mpl_abs   
+
+-word:       wbṭylyn   
+ before:     w         
+ inflected:  bṭylyn    
+ base:       bṭyl      
+ root:       bṭl       
+ tag:        mpl_abs   
+
+-word:       dytyr     
+ before:     d         
+ inflected:  ytyr      
+ base:       ytyr      
+ root:       ytr       
+ tag:        ms_abs    
+
+-word:       šlyṭ      
+ before:               
+ inflected:  šlyṭ      
+ base:       šlyṭ      
+ root:       šlṭ       
+ tag:        ms_abs    
+
+-word:       šlyṭyn    
+ before:               
+ inflected:  šlyṭyn    
+ base:       šlyṭ      
+ root:       šlṭ       
+ tag:        mpl_abs   
+
+-word:       mkyk      
+ before:               
+ inflected:  mkyk      
+ base:       mkyk      
+ root:       mkk       
+ tag:        ms_abs    
+
+-word:       bryk      
+ before:               
+ inflected:  bryk      
+ base:       bryk      
+ root:       brk       
+ tag:        ms_abs    
+
+-word:       ʔmyn      
+ before:               
+ inflected:  ʔmyn      
+ base:       ʔmyn      
+ root:       ʔmn       
+ tag:        ms_abs    
+
+-word:       wqšyšʔ    
+ before:     w         
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        fs_abs    
+
+-word:       wqšyšʔ    
+ before:     w         
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        ms_emph   
+
+-word:       wqšyšʔ    
+ before:     w         
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        mpl_emph  
+
+-word:       ʔmyn      
+ before:               
+ inflected:  ʔmyn      
+ base:       ʔmyn      
+ root:       ʔmn       
+ tag:        ms_abs    
+
+-word:       dšryr     
+ before:     d         
+ inflected:  šryr      
+ base:       šryr      
+ root:       šrr       
+ tag:        ms_abs    
+
+-word:       šlyṭ      
+ before:               
+ inflected:  šlyṭ      
+ base:       šlyṭ      
+ root:       šlṭ       
+ tag:        ms_abs    
+
+-word:       hwyn      
+ before:               
+ inflected:  hwyn      
+ base:       hwyn      
+ root:       hwn       
+ tag:        ms_abs    
+
+-word:       yqyrtʔ    
+ before:               
+ inflected:  yqyrtʔ    
+ base:       yqyr      
+ root:       yqr       
+ tag:        fs_emph   
+
+-word:       yqyrtʔ    
+ before:               
+ inflected:  yqyrtʔ    
+ base:       yqyr      
+ root:       yqr       
+ tag:        fpl_emph  
+
+-word:       ytyrʔ     
+ before:               
+ inflected:  ytyrʔ     
+ base:       ytyr      
+ root:       ytr       
+ tag:        fs_abs    
+
+-word:       ytyrʔ     
+ before:               
+ inflected:  ytyrʔ     
+ base:       ytyr      
+ root:       ytr       
+ tag:        ms_emph   
+
+-word:       ytyrʔ     
+ before:               
+ inflected:  ytyrʔ     
+ base:       ytyr      
+ root:       ytr       
+ tag:        mpl_emph  
+
+-word:       špyrʔ     
+ before:               
+ inflected:  špyrʔ     
+ base:       špyr      
+ root:       špr       
+ tag:        fs_abs    
+
+-word:       špyrʔ     
+ before:               
+ inflected:  špyrʔ     
+ base:       špyr      
+ root:       špr       
+ tag:        ms_emph   
+
+-word:       špyrʔ     
+ before:               
+ inflected:  špyrʔ     
+ base:       špyr      
+ root:       špr       
+ tag:        mpl_emph  
+
+-word:       zdyqʔ     
+ before:               
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        fs_abs    
+
+-word:       zdyqʔ     
+ before:               
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        ms_emph   
+
+-word:       zdyqʔ     
+ before:               
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        mpl_emph  
+
+-word:       dzdyqʔ    
+ before:     d         
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        fs_abs    
+
+-word:       dzdyqʔ    
+ before:     d         
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        ms_emph   
+
+-word:       dzdyqʔ    
+ before:     d         
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        mpl_emph  
+
+-word:       hwyn      
+ before:               
+ inflected:  hwyn      
+ base:       hwyn      
+ root:       hwn       
+ tag:        ms_abs    
+
+-word:       hwyn      
+ before:               
+ inflected:  hwyn      
+ base:       hwyn      
+ root:       hwn       
+ tag:        ms_abs    
+
+-word:       hwyn      
+ before:               
+ inflected:  hwyn      
+ base:       hwyn      
+ root:       hwn       
+ tag:        ms_abs    
+
+-word:       wḥkymʔ    
+ before:     w         
+ inflected:  ḥkymʔ     
+ base:       ḥkym      
+ root:       ḥkm       
+ tag:        fs_abs    
+
+-word:       wḥkymʔ    
+ before:     w         
+ inflected:  ḥkymʔ     
+ base:       ḥkym      
+ root:       ḥkm       
+ tag:        ms_emph   
+
+-word:       wḥkymʔ    
+ before:     w         
+ inflected:  ḥkymʔ     
+ base:       ḥkym      
+ root:       ḥkm       
+ tag:        mpl_emph  
+
+-word:       dzdyqʔ    
+ before:     d         
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        fs_abs    
+
+-word:       dzdyqʔ    
+ before:     d         
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        ms_emph   
+
+-word:       dzdyqʔ    
+ before:     d         
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        mpl_emph  
+
+-word:       zdyqʔ     
+ before:               
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        fs_abs    
+
+-word:       zdyqʔ     
+ before:               
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        ms_emph   
+
+-word:       zdyqʔ     
+ before:               
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        mpl_emph  
+
+-word:       ʔmyn      
+ before:               
+ inflected:  ʔmyn      
+ base:       ʔmyn      
+ root:       ʔmn       
+ tag:        ms_abs    
+
+-word:       bryk      
+ before:               
+ inflected:  bryk      
+ base:       bryk      
+ root:       brk       
+ tag:        ms_abs    
+
+-word:       ʔmyn      
+ before:               
+ inflected:  ʔmyn      
+ base:       ʔmyn      
+ root:       ʔmn       
+ tag:        ms_abs    
+
+-word:       qdyštʔ    
+ before:               
+ inflected:  qdyštʔ    
+ base:       qdyš      
+ root:       qdš       
+ tag:        fs_emph   
+
+-word:       qdyštʔ    
+ before:               
+ inflected:  qdyštʔ    
+ base:       qdyš      
+ root:       qdš       
+ tag:        fpl_emph  
+
+-word:       ʔmyn      
+ before:               
+ inflected:  ʔmyn      
+ base:       ʔmyn      
+ root:       ʔmn       
+ tag:        ms_abs    
+
+-word:       wḥkymʔ    
+ before:     w         
+ inflected:  ḥkymʔ     
+ base:       ḥkym      
+ root:       ḥkm       
+ tag:        fs_abs    
+
+-word:       wḥkymʔ    
+ before:     w         
+ inflected:  ḥkymʔ     
+ base:       ḥkym      
+ root:       ḥkm       
+ tag:        ms_emph   
+
+-word:       wḥkymʔ    
+ before:     w         
+ inflected:  ḥkymʔ     
+ base:       ḥkym      
+ root:       ḥkm       
+ tag:        mpl_emph  
+
+-word:       ʔmyn      
+ before:               
+ inflected:  ʔmyn      
+ base:       ʔmyn      
+ root:       ʔmn       
+ tag:        ms_abs    
+
+-word:       ḥkymn     
+ before:               
+ inflected:  ḥkymn     
+ base:       ḥkym      
+ root:       ḥkm       
+ tag:        fpl_abs   
+
+-word:       ḥkymtʔ    
+ before:               
+ inflected:  ḥkymtʔ    
+ base:       ḥkym      
+ root:       ḥkm       
+ tag:        fs_emph   
+
+-word:       ḥkymtʔ    
+ before:               
+ inflected:  ḥkymtʔ    
+ base:       ḥkym      
+ root:       ḥkm       
+ tag:        fpl_emph  
+
+-word:       lḥkymtʔ   
+ before:     l         
+ inflected:  ḥkymtʔ    
+ base:       ḥkym      
+ root:       ḥkm       
+ tag:        fs_emph   
+
+-word:       lḥkymtʔ   
+ before:     l         
+ inflected:  ḥkymtʔ    
+ base:       ḥkym      
+ root:       ḥkm       
+ tag:        fpl_emph  
+
+-word:       ḥkymtʔ    
+ before:               
+ inflected:  ḥkymtʔ    
+ base:       ḥkym      
+ root:       ḥkm       
+ tag:        fs_emph   
+
+-word:       ḥkymtʔ    
+ before:               
+ inflected:  ḥkymtʔ    
+ base:       ḥkym      
+ root:       ḥkm       
+ tag:        fpl_emph  
+
+-word:       ʔmyn      
+ before:               
+ inflected:  ʔmyn      
+ base:       ʔmyn      
+ root:       ʔmn       
+ tag:        ms_abs    
+
+-word:       qlyl      
+ before:               
+ inflected:  qlyl      
+ base:       qlyl      
+ root:       qll       
+ tag:        ms_abs    
+
+-word:       qlyl      
+ before:               
+ inflected:  qlyl      
+ base:       qlyl      
+ root:       qll       
+ tag:        ms_abs    
+
+-word:       bṭylʔ     
+ before:               
+ inflected:  bṭylʔ     
+ base:       bṭyl      
+ root:       bṭl       
+ tag:        fs_abs    
+
+-word:       bṭylʔ     
+ before:               
+ inflected:  bṭylʔ     
+ base:       bṭyl      
+ root:       bṭl       
+ tag:        ms_emph   
+
+-word:       bṭylʔ     
+ before:               
+ inflected:  bṭylʔ     
+ base:       bṭyl      
+ root:       bṭl       
+ tag:        mpl_emph  
+
+-word:       qdyšʔ     
+ before:               
+ inflected:  qdyšʔ     
+ base:       qdyš      
+ root:       qdš       
+ tag:        fs_abs    
+
+-word:       qdyšʔ     
+ before:               
+ inflected:  qdyšʔ     
+ base:       qdyš      
+ root:       qdš       
+ tag:        ms_emph   
+
+-word:       qdyšʔ     
+ before:               
+ inflected:  qdyšʔ     
+ base:       qdyš      
+ root:       qdš       
+ tag:        mpl_emph  
+
+-word:       zdyqʔ     
+ before:               
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        fs_abs    
+
+-word:       zdyqʔ     
+ before:               
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        ms_emph   
+
+-word:       zdyqʔ     
+ before:               
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        mpl_emph  
+
+-word:       ʔmyn      
+ before:               
+ inflected:  ʔmyn      
+ base:       ʔmyn      
+ root:       ʔmn       
+ tag:        ms_abs    
+
+-word:       ʔmyn      
+ before:               
+ inflected:  ʔmyn      
+ base:       ʔmyn      
+ root:       ʔmn       
+ tag:        ms_abs    
+
+-word:       wzdyqʔ    
+ before:     w         
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        fs_abs    
+
+-word:       wzdyqʔ    
+ before:     w         
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        ms_emph   
+
+-word:       wzdyqʔ    
+ before:     w         
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        mpl_emph  
+
+-word:       wqšyšʔ    
+ before:     w         
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        fs_abs    
+
+-word:       wqšyšʔ    
+ before:     w         
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        ms_emph   
+
+-word:       wqšyšʔ    
+ before:     w         
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        mpl_emph  
+
+-word:       špyrʔ     
+ before:               
+ inflected:  špyrʔ     
+ base:       špyr      
+ root:       špr       
+ tag:        fs_abs    
+
+-word:       špyrʔ     
+ before:               
+ inflected:  špyrʔ     
+ base:       špyr      
+ root:       špr       
+ tag:        ms_emph   
+
+-word:       špyrʔ     
+ before:               
+ inflected:  špyrʔ     
+ base:       špyr      
+ root:       špr       
+ tag:        mpl_emph  
+
+-word:       wʔmyn     
+ before:     w         
+ inflected:  ʔmyn      
+ base:       ʔmyn      
+ root:       ʔmn       
+ tag:        ms_abs    
+
+-word:       dpṭyrʔ    
+ before:     d         
+ inflected:  pṭyrʔ     
+ base:       pṭyr      
+ root:       pṭr       
+ tag:        fs_abs    
+
+-word:       dpṭyrʔ    
+ before:     d         
+ inflected:  pṭyrʔ     
+ base:       pṭyr      
+ root:       pṭr       
+ tag:        ms_emph   
+
+-word:       dpṭyrʔ    
+ before:     d         
+ inflected:  pṭyrʔ     
+ base:       pṭyr      
+ root:       pṭr       
+ tag:        mpl_emph  
+
+-word:       ʔmyn      
+ before:               
+ inflected:  ʔmyn      
+ base:       ʔmyn      
+ root:       ʔmn       
+ tag:        ms_abs    
+
+-word:       ʔmyn      
+ before:               
+ inflected:  ʔmyn      
+ base:       ʔmyn      
+ root:       ʔmn       
+ tag:        ms_abs    
+
+-word:       qlyl      
+ before:               
+ inflected:  qlyl      
+ base:       qlyl      
+ root:       qll       
+ tag:        ms_abs    
+
+-word:       yqyrn     
+ before:               
+ inflected:  yqyrn     
+ base:       yqyr      
+ root:       yqr       
+ tag:        fpl_abs   
+
+-word:       wqšyšʔ    
+ before:     w         
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        fs_abs    
+
+-word:       wqšyšʔ    
+ before:     w         
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        ms_emph   
+
+-word:       wqšyšʔ    
+ before:     w         
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        mpl_emph  
+
+-word:       ytyr      
+ before:               
+ inflected:  ytyr      
+ base:       ytyr      
+ root:       ytr       
+ tag:        ms_abs    
+
+-word:       wqšyšʔ    
+ before:     w         
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        fs_abs    
+
+-word:       wqšyšʔ    
+ before:     w         
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        ms_emph   
+
+-word:       wqšyšʔ    
+ before:     w         
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        mpl_emph  
+
+-word:       wqšyšʔ    
+ before:     w         
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        fs_abs    
+
+-word:       wqšyšʔ    
+ before:     w         
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        ms_emph   
+
+-word:       wqšyšʔ    
+ before:     w         
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        mpl_emph  
+
+-word:       štyq      
+ before:               
+ inflected:  štyq      
+ base:       štyq      
+ root:       štq       
+ tag:        ms_abs    
+
+-word:       dḥylʔ     
+ before:               
+ inflected:  dḥylʔ     
+ base:       dḥyl      
+ root:       dḥl       
+ tag:        fs_abs    
+
+-word:       dḥylʔ     
+ before:               
+ inflected:  dḥylʔ     
+ base:       dḥyl      
+ root:       dḥl       
+ tag:        ms_emph   
+
+-word:       dḥylʔ     
+ before:               
+ inflected:  dḥylʔ     
+ base:       dḥyl      
+ root:       dḥl       
+ tag:        mpl_emph  
+
+-word:       qlyl      
+ before:               
+ inflected:  qlyl      
+ base:       qlyl      
+ root:       qll       
+ tag:        ms_abs    
+
+-word:       wqšyšʔ    
+ before:     w         
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        fs_abs    
+
+-word:       wqšyšʔ    
+ before:     w         
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        ms_emph   
+
+-word:       wqšyšʔ    
+ before:     w         
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        mpl_emph  
+
+-word:       wlqšyšʔ   
+ before:     wl        
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        fs_abs    
+
+-word:       wlqšyšʔ   
+ before:     wl        
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        ms_emph   
+
+-word:       wlqšyšʔ   
+ before:     wl        
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        mpl_emph  
+
+-word:       šlyṭ      
+ before:               
+ inflected:  šlyṭ      
+ base:       šlyṭ      
+ root:       šlṭ       
+ tag:        ms_abs    
+
+-word:       dyqyrʔ    
+ before:     d         
+ inflected:  yqyrʔ     
+ base:       yqyr      
+ root:       yqr       
+ tag:        fs_abs    
+
+-word:       dyqyrʔ    
+ before:     d         
+ inflected:  yqyrʔ     
+ base:       yqyr      
+ root:       yqr       
+ tag:        ms_emph   
+
+-word:       dyqyrʔ    
+ before:     d         
+ inflected:  yqyrʔ     
+ base:       yqyr      
+ root:       yqr       
+ tag:        mpl_emph  
+
+-word:       wqšyšʔ    
+ before:     w         
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        fs_abs    
+
+-word:       wqšyšʔ    
+ before:     w         
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        ms_emph   
+
+-word:       wqšyšʔ    
+ before:     w         
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        mpl_emph  
+
+-word:       zdyqʔ     
+ before:               
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        fs_abs    
+
+-word:       zdyqʔ     
+ before:               
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        ms_emph   
+
+-word:       zdyqʔ     
+ before:               
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        mpl_emph  
+
+-word:       wqšyšʔ    
+ before:     w         
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        fs_abs    
+
+-word:       wqšyšʔ    
+ before:     w         
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        ms_emph   
+
+-word:       wqšyšʔ    
+ before:     w         
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        mpl_emph  
+
+-word:       zdyqʔ     
+ before:               
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        fs_abs    
+
+-word:       zdyqʔ     
+ before:               
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        ms_emph   
+
+-word:       zdyqʔ     
+ before:               
+ inflected:  zdyqʔ     
+ base:       zdyq      
+ root:       zdq       
+ tag:        mpl_emph  
+
+-word:       wqšyšʔ    
+ before:     w         
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        fs_abs    
+
+-word:       wqšyšʔ    
+ before:     w         
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        ms_emph   
+
+-word:       wqšyšʔ    
+ before:     w         
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        mpl_emph  
+
+-word:       dqdyšʔ    
+ before:     d         
+ inflected:  qdyšʔ     
+ base:       qdyš      
+ root:       qdš       
+ tag:        fs_abs    
+
+-word:       dqdyšʔ    
+ before:     d         
+ inflected:  qdyšʔ     
+ base:       qdyš      
+ root:       qdš       
+ tag:        ms_emph   
+
+-word:       dqdyšʔ    
+ before:     d         
+ inflected:  qdyšʔ     
+ base:       qdyš      
+ root:       qdš       
+ tag:        mpl_emph  
+
+-word:       dškybyn   
+ before:     d         
+ inflected:  škybyn    
+ base:       škyb      
+ root:       škb       
+ tag:        mpl_abs   
+
+-word:       qdyštʔ    
+ before:               
+ inflected:  qdyštʔ    
+ base:       qdyš      
+ root:       qdš       
+ tag:        fs_emph   
+
+-word:       qdyštʔ    
+ before:               
+ inflected:  qdyštʔ    
+ base:       qdyš      
+ root:       qdš       
+ tag:        fpl_emph  
+
+-word:       ʕtyrʔ     
+ before:               
+ inflected:  ʕtyrʔ     
+ base:       ʕtyr      
+ root:       ʕtr       
+ tag:        fs_abs    
+
+-word:       ʕtyrʔ     
+ before:               
+ inflected:  ʕtyrʔ     
+ base:       ʕtyr      
+ root:       ʕtr       
+ tag:        ms_emph   
+
+-word:       ʕtyrʔ     
+ before:               
+ inflected:  ʕtyrʔ     
+ base:       ʕtyr      
+ root:       ʕtr       
+ tag:        mpl_emph  
+
+-word:       qšyšʔ     
+ before:               
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        fs_abs    
+
+-word:       qšyšʔ     
+ before:               
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        ms_emph   
+
+-word:       qšyšʔ     
+ before:               
+ inflected:  qšyšʔ     
+ base:       qšyš      
+ root:       qšš       
+ tag:        mpl_emph  
+
+-word:       ʔmyn      
+ before:               
+ inflected:  ʔmyn      
+ base:       ʔmyn      
+ root:       ʔmn       
+ tag:        ms_abs    
+
